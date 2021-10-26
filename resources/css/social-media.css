@@ -1,0 +1,10 @@
+.fab, .fas {
+    font-size: 40px;
+    text-shadow: 0px 0px 8px #000000;
+    margin-right: 0.5rem;
+    margin-left: 0.5rem;
+}
+
+.fab:hover {
+    opacity: 0.8;
+}

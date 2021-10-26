@@ -1,0 +1,4 @@
+.centered-navbar {
+    flex-grow: 1; 
+    justify-content: center;
+}

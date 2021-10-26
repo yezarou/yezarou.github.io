@@ -1,0 +1,9 @@
+.back-logo{
+    background:url('../images/logo-wallpaper.jpg');
+    background-position: left, bottom; 
+    background-size: cover;
+}
+
+.black-transparent{
+    background-color: rgba(0,0,0, 0.4);
+}
